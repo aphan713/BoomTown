@@ -1,6 +1,6 @@
 
 #############################################
-#### Try to connect R directly to the warehouse but it's having problem with downloading the RJBDC package 
+#### Tried to connect R directly to the warehouse but it's having problem with downloading the RJBDC package 
 #     due to rJava 
 
 #install.packages("RJDBC")
